@@ -47,6 +47,7 @@
 			</div>
 		</main>
 
+
 <?php
 include(ROOT . "/templates/footer.tpl");
 ?>
