@@ -13,8 +13,8 @@
 						<h2 class="post__title">Сила, заключённая в&#160;металле</h2>
 						<div class="post__img-wrapper">
 							<picture>
-								<source srcset="./img/01.webp 1x, ./img/01@2x.webp 2x" type="image/webp" />
-								<source srcset="./img/01.jpg 1x, ./img/01@2x.jpg 2x" type="image/jpeg" />
+								<source srcset="assets/img/01.webp 1x, assets/img/01@2x.webp 2x" type="/image/webp" />
+								<source srcset="assets/img/01.jpg 1x, assets/img/01@2x.jpg 2x" type="image/jpeg" />
 								<img src="./img/01.jpg" alt="" class="post__img" />
 							</picture>
 						</div>

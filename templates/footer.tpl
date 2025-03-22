@@ -3,6 +3,6 @@
         <div class="footer__copyright">&#169; 2025</div>
     </div>
 </footer>
-<script src="./js/index.bundle.js"></script>
+<script src="assets/js/index.bundle.js"></script>
 </body>
 </html>

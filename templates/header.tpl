@@ -7,8 +7,8 @@
                 </div>
             </div>
             <div class="header__btns">
-                <a href="create-post.html" class="button">Добавить пост</a>
-                <a href="login.html" class="button">Вход</a>
+                <a href="create-post.php" class="button">Добавить пост</a>
+                <a href="login.php" class="button">Вход</a>
                 <a href="uikit.html" class="button">UI&#160;Kit</a>
                 <a href="#" class="button toggleDarkModeBtn">🌘</a>
             </div>
@@ -21,7 +21,7 @@
     </div>
 </header>
 <div class="mobile-nav">
-    <a href="create-post.html" class="button">Добавить пост</a>
-    <a href="login.html" class="button">Вход</a>
+    <a href="create-post.php" class="button">Добавить пост</a>
+    <a href="login.php" class="button">Вход</a>
     <a href="#" class="button toggleDarkModeBtn">🌘</a>
 </div>
